@@ -1,4 +1,4 @@
-Best-Fitt – A Fitts’ Law tool
+Quantotype
 ==========================================
 
 Have a look at the Graffle document to see where the ideas are at.
